@@ -1,0 +1,5 @@
+project_id = "your-gcp-project-id"
+region     = "europe-west2"
+cluster_name = "mlops-capstone"
+image_repository = "ghcr.io/yourname/mlops-capstone"
+image_tag = "latest"
